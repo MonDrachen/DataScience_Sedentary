@@ -1,6 +1,7 @@
 Data Science Project: Predicting “Sedentary” Lifestyle
 
 Question: Can we identify people with a "Sedentary" lifestyle based on the other information given in the “sign up” process?
+
 Business Objective: To create a Machine Learning model able to predict if a user has a “sedentary” lifestyle based on the information given on the “sign up” process with at least 0.95 accuracy.
 
 Hypothesis
